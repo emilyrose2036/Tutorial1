@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/UFO Game.unity
+- path: Assets/Scenes/UFOchallenge.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
